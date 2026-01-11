@@ -1,99 +1,45 @@
-<!-- ██████╗ ███╗   ██╗███████╗ ██████╗ ██████╗ ██████╗ ██╗   ██╗████████╗ █████╗ ██╗     ██╗███████╗███╗   ███╗ -->
-<!-- ██╔══██╗████╗  ██║██╔════╝██╔═══██╗██╔══██╗██╔══██╗██║   ██║╚══██╔══╝██╔══██╗██║     ██║██╔════╝████╗ ████║ -->
-<!-- ██████╔╝██╔██╗ ██║█████╗  ██║   ██║██████╔╝██████╔╝██║   ██║   ██║   ███████║██║     ██║███████╗██╔████╔██║ -->
-<!-- ██╔══██╗██║╚██╗██║██╔══╝  ██║   ██║██╔══██╗██╔══██╗██║   ██║   ██║   ██╔══██║██║     ██║╚════██║██║╚██╔╝██║ -->
-<!-- ██████╔╝██║ ╚████║███████╗╚██████╔╝██████╔╝██║  ██║╚██████╔╝   ██║   ██║  ██║███████╗██║███████║██║ ╚═╝ ██║ -->
-<!-- ╚═════╝ ╚═╝  ╚═══╝╚══════╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚══════╝╚═╝╚══════╝╚═╝     ╚═╝ -->
-
 <div align="center">
 
-<!-- NEOBRUTALISM HEADER -->
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║     █████╗ ███╗   ███╗ █████╗ ███╗   ██╗    ██╗  ██╗██╗   ██╗███╗   ███╗     ║
-║    ██╔══██╗████╗ ████║██╔══██╗████╗  ██║    ██║ ██╔╝██║   ██║████╗ ████║     ║
-║    ███████║██╔████╔██║███████║██╔██╗ ██║    █████╔╝ ██║   ██║██╔████╔██║     ║
-║    ██╔══██║██║╚██╔╝██║██╔══██║██║╚██╗██║    ██╔═██╗ ██║   ██║██║╚██╔╝██║     ║
-║    ██║  ██║██║ ╚═╝ ██║██║  ██║██║ ╚████║    ██║  ██╗╚██████╔╝██║ ╚═╝ ██║     ║
-║    ╚═╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝     ║
-║                                                                              ║
-║                 【 BACKEND  •  DATA ENGINEERING  •  AI 】                     ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+<!-- NEOBRUTALISM COLORFUL HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FFEB3B&height=120&section=header&text=GUTS&fontSize=80&fontColor=000000&stroke=000000&strokeWidth=3" width="100%"/>
 
-<!-- NEOBRUTALISM BADGES - Bold Colors -->
-[![Profile Views](https://img.shields.io/badge/PROFILE_VIEWS-0-000000?style=flat-square&labelColor=FFEB3B&color=000000)](https://github.com/berserk3142-max)
-[![Status](https://img.shields.io/badge/STATUS-BUILDING_COOL_STUFF-000000?style=flat-square&labelColor=FF6B9D)](https://github.com/berserk3142-max)
-[![Focus](https://img.shields.io/badge/FOCUS-BACKEND_ENGINEERING-000000?style=flat-square&labelColor=00F5D4)](https://github.com/berserk3142-max)
+<!-- ANIMATED TAGLINE -->
+<img src="https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=28&duration=2500&pause=800&color=000000&background=FF6B9D&center=true&vCenter=true&width=500&height=45&lines=BACKEND+ENGINEER;DATA+PIPELINE+ARCHITECT;AI+SYSTEMS+BUILDER" alt="Typing SVG" />
+
+<!-- NEOBRUTALISM BADGES -->
+<br/>
+
+![Views](https://img.shields.io/badge/VIEWS-0-000000?style=flat-square&labelColor=00F5D4)
+![Status](https://img.shields.io/badge/STATUS-CODING-000000?style=flat-square&labelColor=FFEB3B)
+![Focus](https://img.shields.io/badge/FOCUS-BACKEND-000000?style=flat-square&labelColor=FF6B9D)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ███  ABOUT ME SECTION  ███ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## ⚡ ABOUT
 
 <table>
 <tr>
-<td width="60%">
+<td>
 
-## ⚡ ABOUT ME
-
-```javascript
-const aman = {
-    pronouns: "he" | "him",
-    location: "India 🇮🇳",
-    
-    education: {
-        degree: "B.Tech Computer Science",
-        focus: "Backend Systems & AI"
-    },
-    
-    currentlyBuilding: [
-        "Scalable Backend APIs",
-        "Data Pipelines",
-        "AI-Powered Systems"
-    ],
-    
-    learning: [
-        "System Design at Scale",
-        "Cloud-Native Architectures",
-        "Advanced Data Engineering"
-    ],
-    
-    funFact: "Every bug is a feature in disguise! 🐛✨"
+```js
+const guts = {
+  role: "Backend Engineer",
+  location: "India 🇮🇳",
+  education: "B.Tech CS",
+  building: ["APIs", "Pipelines", "AI"],
+  learning: ["System Design", "Cloud"],
+  motto: "Ship fast, debug faster! 🚀"
 };
 ```
 
 </td>
-<td width="40%">
+<td>
 
-```
-┌────────────────────────────┐
-│                            │
-│    ████████████████████    │
-│    █                  █    │
-│    █   🖥️  CODING     █    │
-│    █      MODE        █    │
-│    █       ON         █    │
-│    █                  █    │
-│    ████████████████████    │
-│                            │
-│  ┌──────────────────────┐  │
-│  │ ▓▓▓▓▓▓▓▓▓▓▓▓░░░░ 80% │  │
-│  │    CAFFEINE LEVEL    │  │
-│  └──────────────────────┘  │
-│                            │
-│  ┌──────────────────────┐  │
-│  │ ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 99% │  │
-│  │   DEBUGGING SKILL    │  │
-│  └──────────────────────┘  │
-│                            │
-└────────────────────────────┘
-```
+![Coding](https://img.shields.io/badge/💻_ALWAYS-CODING-000000?style=for-the-badge&labelColor=FFEB3B)
+![Coffee](https://img.shields.io/badge/☕_CAFFEINE-99%25-000000?style=for-the-badge&labelColor=FF6B9D)
+![Debug](https://img.shields.io/badge/🐛_DEBUG-PRO-000000?style=for-the-badge&labelColor=00F5D4)
 
 </td>
 </tr>
@@ -101,231 +47,78 @@ const aman = {
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ███  TECH STACK - NEOBRUTALISM STYLE  ███ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## 🛠️ TECH STACK
 
-<div align="center">
+### ⚔️ Languages
+![Python](https://img.shields.io/badge/PYTHON-000?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=FFEB3B)
+![Java](https://img.shields.io/badge/JAVA-000?style=for-the-badge&logo=openjdk&logoColor=fff&labelColor=FF6B6B)
+![JavaScript](https://img.shields.io/badge/JS-000?style=for-the-badge&logo=javascript&logoColor=000&labelColor=F7DF1E)
+![C++](https://img.shields.io/badge/C++-000?style=for-the-badge&logo=cplusplus&logoColor=fff&labelColor=00599C)
+![Solidity](https://img.shields.io/badge/SOL-000?style=for-the-badge&logo=solidity&logoColor=fff&labelColor=9B5DE5)
 
-## 🛠️ TECH ARSENAL
+### 🔧 Backend
+![FastAPI](https://img.shields.io/badge/FASTAPI-000?style=for-the-badge&logo=fastapi&logoColor=fff&labelColor=00F5D4)
+![Flask](https://img.shields.io/badge/FLASK-000?style=for-the-badge&logo=flask&logoColor=fff&labelColor=FF6B9D)
+![Spring](https://img.shields.io/badge/SPRING-000?style=for-the-badge&logo=spring&logoColor=fff&labelColor=6DB33F)
+![Node](https://img.shields.io/badge/NODE-000?style=for-the-badge&logo=nodedotjs&logoColor=fff&labelColor=FFEB3B)
+![React](https://img.shields.io/badge/REACT-000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=9B5DE5)
 
-</div>
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/POSTGRES-000?style=for-the-badge&logo=postgresql&logoColor=fff&labelColor=4169E1)
+![MongoDB](https://img.shields.io/badge/MONGO-000?style=for-the-badge&logo=mongodb&logoColor=fff&labelColor=00F5D4)
+![Redis](https://img.shields.io/badge/REDIS-000?style=for-the-badge&logo=redis&logoColor=fff&labelColor=FF6B6B)
+![SQLite](https://img.shields.io/badge/SQLITE-000?style=for-the-badge&logo=sqlite&logoColor=fff&labelColor=FFEB3B)
 
-<!-- LANGUAGES -->
-<details open>
-<summary><h3>⚔️ PROGRAMMING LANGUAGES</h3></summary>
-
-<div align="center">
-
-| ![Python](https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=FFEB3B) | ![Java](https://img.shields.io/badge/JAVA-000000?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=FF6B6B) | ![JavaScript](https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=000000&labelColor=F7DF1E) | ![C++](https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white&labelColor=00599C) | ![Solidity](https://img.shields.io/badge/SOLIDITY-000000?style=for-the-badge&logo=solidity&logoColor=white&labelColor=363636) |
-|:---:|:---:|:---:|:---:|:---:|
-
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║  🐍 PYTHON   ║  ☕ JAVA   ║  ⚡ JS   ║  🔷 C++   ║  ⟠ SOLIDITY  ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-</details>
-
-<!-- BACKEND & FRAMEWORKS -->
-<details open>
-<summary><h3>🔧 BACKEND & FRAMEWORKS</h3></summary>
-
-<div align="center">
-
-| ![FastAPI](https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=white&labelColor=00F5D4) | ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white&labelColor=FF6B9D) | ![Spring](https://img.shields.io/badge/SPRING-000000?style=for-the-badge&logo=spring&logoColor=white&labelColor=6DB33F) | ![Node.js](https://img.shields.io/badge/NODE.JS-000000?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=FFEB3B) | ![React](https://img.shields.io/badge/REACT-000000?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=9B5DE5) |
-|:---:|:---:|:---:|:---:|:---:|
-
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║  ⚡ FASTAPI  ║  🧪 FLASK  ║  🍃 SPRING  ║  💚 NODE  ║  ⚛️ REACT   ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-</details>
-
-<!-- DATABASES -->
-<details open>
-<summary><h3>🗄️ DATABASES & STORAGE</h3></summary>
-
-<div align="center">
-
-| ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-000000?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=4169E1) | ![MongoDB](https://img.shields.io/badge/MONGODB-000000?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=00F5D4) | ![Redis](https://img.shields.io/badge/REDIS-000000?style=for-the-badge&logo=redis&logoColor=white&labelColor=FF6B6B) | ![SQLite](https://img.shields.io/badge/SQLITE-000000?style=for-the-badge&logo=sqlite&logoColor=white&labelColor=FFEB3B) |
-|:---:|:---:|:---:|:---:|
-
-```
-╔═════════════════════════════════════════════════════════════╗
-║  🐘 POSTGRES  ║  🍃 MONGODB  ║  🔴 REDIS  ║  📦 SQLITE   ║
-╚═════════════════════════════════════════════════════════════╝
-```
-
-</div>
-</details>
-
-<!-- DEVOPS & CLOUD -->
-<details open>
-<summary><h3>☁️ DEVOPS • CLOUD • INFRA</h3></summary>
-
-<div align="center">
-
-| ![Docker](https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=white&labelColor=2496ED) | ![Kubernetes](https://img.shields.io/badge/K8S-000000?style=for-the-badge&logo=kubernetes&logoColor=white&labelColor=FF6B9D) | ![GCP](https://img.shields.io/badge/GCP-000000?style=for-the-badge&logo=googlecloud&logoColor=white&labelColor=FFEB3B) | ![Terraform](https://img.shields.io/badge/TERRAFORM-000000?style=for-the-badge&logo=terraform&logoColor=white&labelColor=9B5DE5) | ![Git](https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=white&labelColor=00F5D4) |
-|:---:|:---:|:---:|:---:|:---:|
-
-```
-╔═══════════════════════════════════════════════════════════════════════╗
-║  🐳 DOCKER  ║  ☸️ K8S  ║  ☁️ GCP  ║  🏗️ TERRAFORM  ║  📂 GIT    ║
-╚═══════════════════════════════════════════════════════════════════════╝
-```
-
-</div>
-</details>
+### ☁️ DevOps
+![Docker](https://img.shields.io/badge/DOCKER-000?style=for-the-badge&logo=docker&logoColor=fff&labelColor=2496ED)
+![K8s](https://img.shields.io/badge/K8S-000?style=for-the-badge&logo=kubernetes&logoColor=fff&labelColor=FF6B9D)
+![GCP](https://img.shields.io/badge/GCP-000?style=for-the-badge&logo=googlecloud&logoColor=fff&labelColor=FFEB3B)
+![Terraform](https://img.shields.io/badge/TF-000?style=for-the-badge&logo=terraform&logoColor=fff&labelColor=9B5DE5)
+![Git](https://img.shields.io/badge/GIT-000?style=for-the-badge&logo=git&logoColor=fff&labelColor=00F5D4)
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ███  FOCUS AREAS  ███ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## 🎯 FOCUS
 
 <div align="center">
 
-## 🎯 CORE FOCUS AREAS
-
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   ╔═══════════════════╗   ╔═══════════════════╗   ╔═══════════════════╗    │
-│   ║  🔌 BACKEND API   ║   ║  📊 ETL & DATA    ║   ║  ☁️ CLOUD NATIVE  ║    │
-│   ║     DESIGN &      ║   ║    PIPELINES &    ║   ║     SYSTEMS &     ║    │
-│   ║   OPTIMIZATION    ║   ║   ORCHESTRATION   ║   ║   CONTAINERS      ║    │
-│   ╚═══════════════════╝   ╚═══════════════════╝   ╚═══════════════════╝    │
-│                                                                             │
-│   ╔═══════════════════╗   ╔═══════════════════╗   ╔═══════════════════╗    │
-│   ║  🤖 AI & ML       ║   ║  🏗️ CLEAN CODE   ║   ║  ⚡ PERFORMANCE   ║    │
-│   ║   INTEGRATION &   ║   ║   ARCHITECTURE &  ║   ║   OPTIMIZATION &  ║    │
-│   ║   AUTOMATION      ║   ║   SCALABILITY     ║   ║   TUNING          ║    │
-│   ╚═══════════════════╝   ╚═══════════════════╝   ╚═══════════════════╝    │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
-
-| ![Backend](https://img.shields.io/badge/🔌_BACKEND_APIs-000000?style=for-the-badge&labelColor=FFEB3B) | ![Data](https://img.shields.io/badge/📊_DATA_PIPELINES-000000?style=for-the-badge&labelColor=00F5D4) | ![Cloud](https://img.shields.io/badge/☁️_CLOUD_NATIVE-000000?style=for-the-badge&labelColor=FF6B9D) |
-|:---:|:---:|:---:|
-| ![AI](https://img.shields.io/badge/🤖_AI_INTEGRATION-000000?style=for-the-badge&labelColor=9B5DE5) | ![Clean](https://img.shields.io/badge/🏗️_CLEAN_ARCHITECTURE-000000?style=for-the-badge&labelColor=FF6B6B) | ![Performance](https://img.shields.io/badge/⚡_PERFORMANCE-000000?style=for-the-badge&labelColor=00F5D4) |
+![Backend](https://img.shields.io/badge/🔌_API_DESIGN-000?style=for-the-badge&labelColor=FFEB3B)
+![Data](https://img.shields.io/badge/📊_DATA_PIPELINES-000?style=for-the-badge&labelColor=00F5D4)
+![Cloud](https://img.shields.io/badge/☁️_CLOUD_NATIVE-000?style=for-the-badge&labelColor=FF6B9D)
+![AI](https://img.shields.io/badge/🤖_AI_SYSTEMS-000?style=for-the-badge&labelColor=9B5DE5)
+![Clean](https://img.shields.io/badge/🏗️_CLEAN_CODE-000?style=for-the-badge&labelColor=FF6B6B)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ███  GITHUB STATS  ███ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## 🐍 CONTRIBUTIONS
 
 <div align="center">
 
-## 📊 GITHUB ACTIVITY
-
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║      ███╗   ███╗██╗   ██╗    ███████╗████████╗ █████╗ ████████╗███████╗      ║
-║      ████╗ ████║╚██╗ ██╔╝    ██╔════╝╚══██╔══╝██╔══██╗╚══██╔══╝██╔════╝      ║
-║      ██╔████╔██║ ╚████╔╝     ███████╗   ██║   ███████║   ██║   ███████╗      ║
-║      ██║╚██╔╝██║  ╚██╔╝      ╚════██║   ██║   ██╔══██║   ██║   ╚════██║      ║
-║      ██║ ╚═╝ ██║   ██║       ███████║   ██║   ██║  ██║   ██║   ███████║      ║
-║      ╚═╝     ╚═╝   ╚═╝       ╚══════╝   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚══════╝      ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<!-- CONTRIBUTION SNAKE -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
+  <img alt="snake" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" width="100%">
 </picture>
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ███  CONNECT SECTION  ███ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+## 🌐 CONNECT
 
 <div align="center">
 
-## 🌐 LET'S CONNECT
-
-```
-┌─────────────────────────────────────────────────────────────────┐
-│                                                                 │
-│   ╔═══════════════╗   ╔═══════════════╗   ╔═══════════════╗    │
-│   ║               ║   ║               ║   ║               ║    │
-│   ║   LINKEDIN    ║   ║     GMAIL     ║   ║    GITHUB     ║    │
-│   ║               ║   ║               ║   ║               ║    │
-│   ╚═══════════════╝   ╚═══════════════╝   ╚═══════════════╝    │
-│                                                                 │
-└─────────────────────────────────────────────────────────────────┘
-```
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=FFEB3B)](https://www.linkedin.com/in/aman-kumar-a78325251)
-[![Gmail](https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FF6B9D)](mailto:3142akay@gmail.com)
-[![GitHub](https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=00F5D4)](https://github.com/berserk3142-max)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-000?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=FFEB3B)](https://www.linkedin.com/in/aman-kumar-a78325251)
+[![Gmail](https://img.shields.io/badge/GMAIL-000?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=FF6B9D)](mailto:3142akay@gmail.com)
+[![GitHub](https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=fff&labelColor=00F5D4)](https://github.com/berserk3142-max)
 
 </div>
 
 ---
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- ███  FOOTER  ███ -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   ⚡ CLEAN CODE  •  🏗️ SCALABLE SYSTEMS  •  📚 CONTINUOUS LEARNING  ⚡      ║
-║                                                                              ║
-║              "Code is like humor. When you have to explain it,               ║
-║                            it's bad." - Cory House                           ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
-
-<sub>
-  
-**[ BUILT WITH ❤️ BY AMAN KUMAR ]**
-
-</sub>
-
-```
-░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
-```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=FF6B9D&height=50&section=footer&text=SHIP%20IT%20🚀&fontSize=20&fontColor=000000" width="100%"/>
 
 </div>
-
-<!-- 
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║                    ███╗   ██╗███████╗ ██████╗                                ║
-║                    ████╗  ██║██╔════╝██╔═══██╗                               ║
-║                    ██╔██╗ ██║█████╗  ██║   ██║                               ║
-║                    ██║╚██╗██║██╔══╝  ██║   ██║                               ║
-║                    ██║ ╚████║███████╗╚██████╔╝                               ║
-║                    ╚═╝  ╚═══╝╚══════╝ ╚═════╝                                ║
-║                                                                              ║
-║              ██████╗ ██████╗ ██╗   ██╗████████╗ █████╗ ██╗                   ║
-║              ██╔══██╗██╔══██╗██║   ██║╚══██╔══╝██╔══██╗██║                   ║
-║              ██████╔╝██████╔╝██║   ██║   ██║   ███████║██║                   ║
-║              ██╔══██╗██╔══██╗██║   ██║   ██║   ██╔══██║██║                   ║
-║              ██████╔╝██║  ██║╚██████╔╝   ██║   ██║  ██║███████╗              ║
-║              ╚═════╝ ╚═╝  ╚═╝ ╚═════╝    ╚═╝   ╚═╝  ╚═╝╚══════╝              ║
-║                                                                              ║
-║                          BACKEND • DATA • AI                                 ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
--->
