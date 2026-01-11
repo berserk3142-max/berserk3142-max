@@ -34,7 +34,7 @@
 
 ### ☁️ DevOps • Cloud • Data
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,airflow,gcp,terraform,git&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=docker,gcp,terraform,git&theme=dark" />
 </p>
 
 ## 🌌 3D Motion Visual (Live Animation)
