@@ -37,8 +37,6 @@
   <img src="https://skillicons.dev/icons?i=docker,airflow,gcp,terraform,git&theme=dark" />
 </p>
 
----
-
 ## 🌌 3D Motion Visual (Live Animation)
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="100%"/>
