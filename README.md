@@ -52,11 +52,12 @@ fun_fact: >
 <td width="50%">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berserk3142-max&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&icon_color=7B2CBF&bg_color=0D1117" width="100%"/>
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="100%" style="border-radius: 10px;"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berserk3142-max&theme=transparent&hide_border=true&stroke=00D9FF&ring=7B2CBF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&background=0D1117" width="100%"/>
+  <img src="https://img.shields.io/badge/💻_Always_Coding-00D9FF?style=for-the-badge&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/☕_Coffee_Lover-7B2CBF?style=for-the-badge&labelColor=0D1117"/>
 </p>
 
 </td>
@@ -213,15 +214,6 @@ fun_fact: >
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=berserk3142-max&bg_color=0D1117&color=00D9FF&line=7B2CBF&point=FFFFFF&area=true&hide_border=true&area_color=7B2CBF" width="100%"/>
-</p>
-
----
-
-<!-- 🏆 TROPHIES -->
-<h2 align="center">🏆 GitHub Trophies</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=berserk3142-max&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
 </p>
 
 ---
