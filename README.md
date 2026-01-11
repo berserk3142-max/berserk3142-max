@@ -10,7 +10,7 @@
 ║                                                                                                                  ║
 ║    ═══════════════════════════════════════════════════════════════════════════════════════════════════════════   ║
 ║                                                                                                                  ║
-║                         B A C K E N D   E N G I N E E R   |   D A T A   A R C H I T E C T   |   A I   B U I L D E R                           ║
+║        B A C K E N D   E N G I N E E R   |   D A T A   A R C H I T E C T   |   A I   B U I L D E R               ║
 ║                                                                                                                  ║
 ║                                    >>> BUILDING THE FUTURE, ONE API AT A TIME <<<                                ║
 ║                                                                                                                  ║
