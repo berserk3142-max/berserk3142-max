@@ -54,47 +54,6 @@ const guts = {
   education: "B.Tech Computer Science 🎓",
   experience: "Building Scalable Systems",
   status: "Always Shipping! 🚀",
-  
-  // ═══════════════ CURRENT WORK ═══════════════
-  currentlyBuilding: [
-    "⚡ High-Performance REST & GraphQL APIs",
-    "🔥 Real-time Data Pipelines",
-    "🤖 AI/ML Integration Systems",
-    "☁️ Cloud-Native Microservices",
-    "🔐 Secure Authentication Systems",
-    "📊 Analytics & Monitoring Dashboards"
-  ],
-  
-  // ═══════════════ LEARNING PATH ═══════════════
-  currentlyLearning: [
-    "System Design & Architecture",
-    "Cloud Architecture (AWS/GCP)",
-    "Distributed Systems",
-    "Event-Driven Architecture",
-    "Performance Optimization"
-  ],
-  
-  // ═══════════════ INTERESTS ═══════════════
-  interests: [
-    "Open Source Contribution",
-    "Tech Blogging",
-    "Anime & Gaming 🎮",
-    "Problem Solving",
-    "Mentoring Developers"
-  ],
-  
-  // ═══════════════ PHILOSOPHY ═══════════════
-  motto: "Ship fast, debug faster! 💪",
-  philosophy: "Clean code is not written, it's rewritten.",
-  belief: "The best code is no code at all.",
-  
-  // ═══════════════ FUN FACTS ═══════════════
-  funFacts: {
-    coffeePerDay: "∞",
-    favoriteTimeToCode: "2 AM",
-    debuggingSkill: "9000+",
-    tabs_vs_spaces: "Spaces (4)",
-    darkMode: true
   }
 };
 
