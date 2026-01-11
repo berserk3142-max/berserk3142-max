@@ -15,25 +15,75 @@
 
 ---
 
-## ▓▓▓ ABOUT ▓▓▓
+## ⚡ ABOUT ME ⚡
 
+<div align="center">
+
+<!-- ANIMATED INTRO -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=FF6B9D&background=FFFFFF00&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D!+Welcome!+%F0%9F%8C%B8;I'm+GUTS+%7C+Backend+Engineer+%F0%9F%9A%80" alt="Typing SVG" />
+
+<!-- ANIME STYLE DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&animation=twinkling" width="100%"/>
+
+</div>
+
+<table align="center">
+<tr>
+<td>
+
+<!-- ANIMATED CODE BLOCK -->
+```typescript
+const guts = {
+  name: "GUTS ⚔️",
+  title: "Backend Engineer",
+  location: "India 🇮🇳",
+  education: "B.Tech CS 🎓",
+  status: "Always Shipping! 🚀",
+  
+  currentlyBuilding: [
+    "⚡ High-Performance APIs",
+    "🔥 Data Pipelines",  
+    "🤖 AI Systems"
+  ],
+  
+  learning: ["System Design", "Cloud Architecture"],
+  
+  motto: "Ship fast, debug faster! 💪"
+};
 ```
-┌──────────────────────────────────────────────────────────────────────────────┐
-│                                                                              │
-│   NAME        >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>    GUTS   │
-│   ROLE        >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>    BACKEND DEV    │
-│   LOCATION    >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>    INDIA 🇮🇳   │
-│   EDUCATION   >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>    B.TECH CS  │
-│   STATUS      >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>    SHIPPING   │
-│                                                                              │
-├──────────────────────────────────────────────────────────────────────────────┤
-│                                                                              │
-│   [ BUILDING ]    APIs  ░░  DATA PIPELINES  ░░  AI SYSTEMS                   │
-│   [ LEARNING ]    SYSTEM DESIGN  ░░  CLOUD ARCHITECTURE                      │
-│   [ MOTTO ]       "SHIP FAST, DEBUG FASTER!"                                 │
-│                                                                              │
-└──────────────────────────────────────────────────────────────────────────────┘
-```
+
+</td>
+<td>
+
+<!-- ANIMATED BADGES -->
+<div align="center">
+
+![Coding](https://img.shields.io/badge/💻_ALWAYS-CODING-FF6B9D?style=for-the-badge&labelColor=1a1a2e)
+![Level](https://img.shields.io/badge/⚡_LEVEL-9000+-00F5D4?style=for-the-badge&labelColor=1a1a2e)
+![Caffeine](https://img.shields.io/badge/☕_CAFFEINE-99%25-FFEB3B?style=for-the-badge&labelColor=1a1a2e)
+![Debug](https://img.shields.io/badge/🐛_DEBUG-MASTER-9B5DE5?style=for-the-badge&labelColor=1a1a2e)
+![Ship](https://img.shields.io/badge/🚀_SHIPPING-DAILY-FF6B6B?style=for-the-badge&labelColor=1a1a2e)
+![Anime](https://img.shields.io/badge/🎌_ANIME-FAN-E94560?style=for-the-badge&labelColor=1a1a2e)
+
+</div>
+
+<!-- ANIMATED STATUS -->
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=14&duration=2000&pause=500&color=00F5D4&center=true&vCenter=true&multiline=true&repeat=true&width=300&height=60&lines=%F0%9F%8E%AF+Building+APIs...;%F0%9F%94%A5+Crushing+Bugs...;%E2%9A%A1+Deploying+Code..." alt="Status" />
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<!-- COLORFUL WAVE FOOTER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,12,20&height=80&section=footer&animation=fadeIn" width="100%"/>
+
+</div>
 
 ---
 
@@ -146,12 +196,6 @@
 ```
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=berserk3142-max&show_icons=true&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff&hide_border=false)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=berserk3142-max&theme=dark&background=000000&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888&border=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=berserk3142-max&layout=compact&theme=dark&bg_color=000000&title_color=ffffff&text_color=ffffff&border_color=ffffff)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=berserk3142-max&theme=high-contrast&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=888888&area=true&hide_border=false)
 
