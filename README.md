@@ -8,7 +8,7 @@
 
 <!-- 🔥 ANIMATED STATS CARDS -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=berserk3142&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=berserk3142-max&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS"/>
   <img src="https://img.shields.io/badge/Focus-Backend%20Engineering-7B2CBF?style=for-the-badge&logo=target&logoColor=white"/>
   <img src="https://img.shields.io/badge/Status-Building%20Cool%20Stuff-00D9FF?style=for-the-badge&logo=rocket&logoColor=white"/>
 </p>
@@ -52,11 +52,11 @@ fun_fact: >
 <td width="50%">
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=berserk3142&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&icon_color=7B2CBF&bg_color=0D1117" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=berserk3142-max&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&icon_color=7B2CBF&bg_color=0D1117" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berserk3142&theme=transparent&hide_border=true&stroke=00D9FF&ring=7B2CBF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&background=0D1117" width="100%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berserk3142-max&theme=transparent&hide_border=true&stroke=00D9FF&ring=7B2CBF&fire=FF6B35&currStreakLabel=00D9FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888&background=0D1117" width="100%"/>
 </p>
 
 </td>
@@ -212,7 +212,7 @@ fun_fact: >
 <h2 align="center">📈 Contribution Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=berserk3142&bg_color=0D1117&color=00D9FF&line=7B2CBF&point=FFFFFF&area=true&hide_border=true&area_color=7B2CBF" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=berserk3142-max&bg_color=0D1117&color=00D9FF&line=7B2CBF&point=FFFFFF&area=true&hide_border=true&area_color=7B2CBF" width="100%"/>
 </p>
 
 ---
@@ -221,7 +221,7 @@ fun_fact: >
 <h2 align="center">🏆 GitHub Trophies</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=berserk3142&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=berserk3142-max&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
 </p>
 
 ---
@@ -245,7 +245,7 @@ fun_fact: >
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117" height="40"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/berserk3142" target="_blank">
+  <a href="https://github.com/berserk3142-max" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" height="40"/>
   </a>
 </p>
